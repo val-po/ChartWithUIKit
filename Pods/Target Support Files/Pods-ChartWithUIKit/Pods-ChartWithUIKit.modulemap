@@ -1,0 +1,6 @@
+framework module Pods_ChartWithUIKit {
+  umbrella header "Pods-ChartWithUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
